@@ -1,0 +1,36 @@
+body{
+    background: rgb(77, 77, 77);
+}
+.container{
+    text-align: center;
+    
+    margin-top: 200px;
+    color: white;
+}
+.time .digit{
+    font-size: 100px;
+    font-weight: 600;
+}
+.time .txt{
+    font-size: 30px;
+}
+.btn{
+    padding:5px 20px;
+    margin: 10px;
+    font-weight: normal;
+    cursor: pointer;
+    border: 0;
+    color:white;
+
+}
+.start{
+    
+    background: rgb(0, 128, 111);
+}
+.stop{
+    background:rgb(0, 68, 255)
+    
+}
+.reset{
+    background-color: rgb(255, 30, 0);
+}
